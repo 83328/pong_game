@@ -67,7 +67,7 @@ Beneath is a table outlining all possible modules for the ft_transcendence proje
 | **Devops** | Infrastructure Setup for log Management with [ELK](docs/elastic_search.md): [Elasticsearch](docs/elastic_search.md), [Kibana](docs/kibana.md), [Logstash](docs/logstash.md) | Major | 10 | ✅ |
 | Devops | Monitoring system with [Prometheus](docs/prometheus.md) and [Grafana](docs/grafana.md)| Minor | 5 | ✅ |
 | Devops | Designing the [Backend](docs/backend.md) as Microservices | Major | 10 | ✅ |
-| **Graphics** | Use of advanced [3D techniques](docs/threejs.md) | Major | 10 | ✅ |
+| **Graphics** | Use of advanced 3D techniques | Major | 10 | ✅ |
 | **Accessibility** | Support on all devices | Minor | 5 | [ ] |
 | Accessibility | Expanding Browser Compatibility | Minor | 5 | [ ] |
 | Accessibility | Multiple language support | Minor | 5 | [ ] |
