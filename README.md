@@ -54,16 +54,16 @@ Beneath is a table outlining all possible modules for the ft_transcendence proje
 | Web | Store the score of a tournament in the [blockchain](docs/blockchain.md) | Major | 10 | ✅ |
 | **User Management** | Standard user management, [authentication](docs/registering_and_login.md), users across tournaments | Major | 10 | ✅ |
 | User Management | Implementing a remote authentication | Major | 10 | [ ] |
-| **Gameplay and User Experience** | [Remote](docs/backend.md) players | Major | 10 | ✅ |
+| **Gameplay and User Experience** | Remote players | Major | 10 | ✅ |
 | Gameplay and User Experience | Multiplayers (more than 2 in the same game) | Major | 10 | [ ] |
 | Gameplay and User Experience | Add Another Game with User History and Matchmaking | Major | 10 | [ ] |
 | Gameplay and User Experience | Game Customization Options | Minor | 5 | [ ] |
-| Gameplay and User Experience | Live [chat](docs/redis.md) | Major | 10 | ✅ |
+| Gameplay and User Experience | Live chat | Major | 10 | ✅ |
 | **AI-Algo** | Introduce an AI Opponent | Major | 10 | ✅ |
 | AI-Algo | User and Game Stats Dashboards | Minor | 5 | ✅ |
 | **Cybersecurity** | Implement WAF/ModSecurity with Hardened Configuration and HashiCorp Vault for Secrets Management | Major | 10 | [ ] |
 | Cybersecurity | GDPR Compliance Options with User Anonymization, Local Data Management, and Account Deletion | Minor | 5 | [ ] |
-| Cybersecurity | Implement [Two-Factor Authentication](docs/authlib.md)(2FA) and JWT | Major | 10 | ✅ |
+| Cybersecurity | Implement Two-Factor Authentication (2FA) and JWT | Major | 10 | ✅ |
 | **Devops** | Infrastructure Setup for log Management with [ELK](docs/elastic_search.md): [Elasticsearch](docs/elastic_search.md), [Kibana](docs/kibana.md), [Logstash](docs/logstash.md) | Major | 10 | ✅ |
 | Devops | Monitoring system with [Prometheus](docs/prometheus.md) and [Grafana](docs/grafana.md)| Minor | 5 | ✅ |
 | Devops | Designing the [Backend](docs/backend.md) as Microservices | Major | 10 | ✅ |
